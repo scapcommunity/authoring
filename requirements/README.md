@@ -12,7 +12,7 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 - Siemens
 - Red Hat
 - Canonical
-- Joval
+- [Joval](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
 - (please add more here!)
 
 Once we have gathered these organization-specific use cases, the working group will collaborate to assess the overlap
