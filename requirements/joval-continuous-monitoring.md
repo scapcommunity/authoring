@@ -8,12 +8,12 @@ We have several internal and customer use cases. Here is a high-level descriptio
 ### Automated CVE OVAL Generation (internal)
 
 We create and maintain an internal toolkit called the Joval Content Automation toolkit ("JCA"). 
-This Python software runs continously, monitoring external CVE-related data sources data sources
+This Python software runs continuously, monitoring external CVE-related data sources data sources
 such as the Cisco OpenVuln API, the Microsoft Security Updates API, the NVD, and many others.
 When new or changed CVEs are detected JCA analyzes the relevant data and generates new or updated
 CVE OVAL definitions.
 
-Currently, JCA uses it's own Python-based capabilites to generate the requisite OVAL elements,
+Currently, JCA uses its own Python-based capabilities to generate the requisite OVAL elements,
 manage IDs, etc. but these only implement the specific OVAL elements/capabilities that have been
 necessary so far. It would be preferable to leverage an existing general-purpose OVAL authoring
 capability that:
@@ -25,7 +25,7 @@ capability that:
 - could manage OVAL element version numbers
 - would deduplicate OVAL elements automatically
 - could schema and schematron validate the definitions and provide results in programmatically-consumable format
-- would make it easy to leverage external OVAL elements (e.g. inventory defintions or commonly used elements from 3rd-party respositories)
+- would make it easy to leverage external OVAL elements (e.g. inventory definitions or commonly used elements from 3rd-party repositories)
 
 ### Compliance Content Authoring (internal and external)
 
@@ -48,9 +48,9 @@ the rest of the authoring mechanics to be handled by an external solution.
 
 We have customers and partners that leverage SCAP content provided by 3rd-parties ("upstream content") such as
 CIS Benchmarks, DISA STIGs, Compliance as Code Benchmarks, NIST USGCB content and others. These customers often
-need to make changes to the content that goes beyond the current capabilties of Tailoring including:
+need to make changes to the content that goes beyond the current capabilities of Tailoring including:
 - changing XCCDF metadata (title, descriptions, fix text, etc.)
 - adding custom metadata
-- paramaterizing OVAL values that haven't been exposed via external variables
+- parameterizing OVAL values that haven't been exposed via external variables
 - adding additional custom rules and/or checks
 
