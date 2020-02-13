@@ -9,7 +9,7 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 - NIST
 - DISA
 - CIS
-- Siemens
+- [Siemens](https://github.com/scapcommunity/authoring/blob/master/requirements/siemens.md)
 - Red Hat
 - Canonical
 - [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
