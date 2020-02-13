@@ -54,3 +54,5 @@ need to make changes to the content that goes beyond the current capabilities of
 - parameterizing OVAL values that haven't been exposed via external variables
 - adding additional custom rules and/or checks
 
+Additionally, it will be important to be able to identify changes between version of upstream content in order to assess them and migrate the above changes.
+
