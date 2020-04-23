@@ -33,13 +33,13 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Interviewer: ?
   - Status: pending interviewer, org contact
 - [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
+  - Organization Contact: Kent Landfield
+  - Interviewer: Joe Sain
+  - Status: email sent; pending response
 - [Microsoft](https://microsoft.com/)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
+  - Organization Contact: Lisa Olson
+  - Interviewer: Joe Sain 
+  - Status: email sent; pending response
 - [New Net Technologies](https://www.newnettechnologies.com/)
   - Organization Contact: ?
   - Interviewer: ?
