@@ -16,10 +16,6 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: ?
   - Interviewer: ?
   - Status: pending interviewer, org contact
-- [G2](https://www.g2-inc.com/search/node?keys=scap)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
 - [IT Security Database: Repository](http://www.itsecdb.com/oval)
   - Organization Contact: ?
   - Interviewer: ?
@@ -33,10 +29,6 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Interviewer: ?
   - Status: pending interviewer, org contact
 - [Security Database: Repository](https://www.security-database.com/oval.php)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-- [SUSE Linux: Repository](http://ftp.suse.com/pub/projects/security/oval/)
   - Organization Contact: ?
   - Interviewer: ?
   - Status: pending interviewer, org contact
@@ -63,6 +55,10 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: ?
   - Interviewer: Danny Haynes
   - Status: pending interviewer, org contact
+- [G2](https://www.g2-inc.com/search/node?keys=scap)
+  - Organization Contact: Dragos Prisaca to provide interviewee name
+  - Interviewer: Stephen Banghart
+  - Status: pending org contact
 - Hewlett-Packard
   - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
@@ -74,7 +70,7 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 - [Microsoft](https://microsoft.com/)
   - Organization Contact: Lisa Olson
   - Interviewer: Joe Sain 
-  - Status: email sent; pending response
+  - Status: Scheduling interview
 - [NIST: Repository](http://scap.nist.gov/content/)
   - Organization Contact: ?
   - Interviewer: Stephen Banghart
@@ -91,6 +87,10 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
   - Status: scheduling call
+- [SUSE Linux: Repository](http://ftp.suse.com/pub/projects/security/oval/)
+  - Organization Contact: ?
+  - Interviewer: Bill Munyan
+  - Status: pending org contact
 
 
 ## Interviews: Completed
