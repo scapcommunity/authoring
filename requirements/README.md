@@ -83,7 +83,7 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: TBD (reached out to multiple)
   - Interviewer: David Ries
   - Status: initial outreach sent
-  - [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
+- [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
   - Organization Contact: Kent Landfield
   - Interviewer: Joe Sain
   - Status: Scheduling interview
