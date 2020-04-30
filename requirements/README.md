@@ -60,29 +60,29 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 ## Interviews: In Process
 
 - [ALTEX-SOFT Repository](http://www.ovaldb.altx-soft.ru/)
-  - Organization Contact: ?
+  - Organization Contact: TBD (reached out to multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: initial outreach sent
 - [Canonical: Repository](https://people.canonical.com/~ubuntu-security/oval/)
-  - Organization Contact: ?
+  - Organization Contact: TBD (reached out to multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: initial outreach sent
 - [CIS: Repository](https://oval.cisecurity.org/repository)
   - Organization Contact: ?
   - Interviewer: Bill Munyan
   - Status: pending interviewer, org contact
 - [Cisco: Repository](https://tools.cisco.com/security/center/publicationListing.x)
-  - Organization Contact: ?
+  - Organization Contact: TBD (reached out to multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: initial outreach sent
 - Hewlett-Packard
-  - Organization Contact: ?
+  - Organization Contact: TBD (reached out to multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: initial outreach sent
 - [SecPod: Repository](https://www.scaprepo.com)
-  - Organization Contact: ?
+  - Organization Contact: TBD (reached out to multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: initial outreach sent
   - [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
   - Organization Contact: Kent Landfield
   - Interviewer: Joe Sain
@@ -100,6 +100,4 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 
 Once we have gathered these organization-specific use cases, the working group will collaborate to assess the overlap
 and develop a general set of requirements for SCAP authoring to tools.
-
-
 
