@@ -62,7 +62,8 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 - [DISA Field Security Operations: Repository](http://iase.disa.mil/stigs/scap/index.html)
   - Organization Contact: ?
   - Interviewer: Danny Haynes
-  - Status: pending interviewer, org contact- Hewlett-Packard
+  - Status: pending interviewer, org contact
+- Hewlett-Packard
   - Organization Contact: ?
   - Interviewer: David Ries
   - Status: pending outreach
