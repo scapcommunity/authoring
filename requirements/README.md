@@ -44,29 +44,29 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 ## Interviews: In Process
 
 - [ALTEX-SOFT Repository](http://www.ovaldb.altx-soft.ru/)
-  - Organization Contact: ?
+  - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: scheduling call
 - [Canonical: Repository](https://people.canonical.com/~ubuntu-security/oval/)
-  - Organization Contact: ?
+  - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: scheduling call
 - [CIS: Repository](https://oval.cisecurity.org/repository)
   - Organization Contact: ?
   - Interviewer: Bill Munyan
   - Status: pending interviewer, org contact
 - [Cisco: Repository](https://tools.cisco.com/security/center/publicationListing.x)
-  - Organization Contact: ?
+  - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: scheduling call
 - [DISA Field Security Operations: Repository](http://iase.disa.mil/stigs/scap/index.html)
   - Organization Contact: ?
   - Interviewer: Danny Haynes
   - Status: pending interviewer, org contact
 - Hewlett-Packard
-  - Organization Contact: ?
+  - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: scheduling call
 - [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
   - Organization Contact: Kent Landfield
   - Interviewer: Joe Sain
@@ -87,10 +87,10 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: ?
   - Interviewer: ?
   - Status: pending interviewer, org contact
-  - [SecPod: Repository](https://www.scaprepo.com)
-  - Organization Contact: ?
+- [SecPod: Repository](https://www.scaprepo.com)
+  - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
-  - Status: pending outreach
+  - Status: scheduling call
 
 
 ## Interviews: Completed
