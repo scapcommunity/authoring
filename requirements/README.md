@@ -16,10 +16,6 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: ?
   - Interviewer: ?
   - Status: pending interviewer, org contact
-- [DISA Field Security Operations: Repository](http://iase.disa.mil/stigs/scap/index.html)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
 - [G2](https://www.g2-inc.com/search/node?keys=scap)
   - Organization Contact: ?
   - Interviewer: ?
@@ -36,18 +32,6 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: ?
   - Interviewer: ?
   - Status: pending interviewer, org contact
-- [NIST: Repository](http://scap.nist.gov/content/)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-- [NIST: USGCB Mac Project](http://scap.nist.gov/content/)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-- [Positive Technologies: Repository](http://oval.ptsecurity.com)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
 - [Security Database: Repository](https://www.security-database.com/oval.php)
   - Organization Contact: ?
   - Interviewer: ?
@@ -60,29 +44,28 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 ## Interviews: In Process
 
 - [ALTEX-SOFT Repository](http://www.ovaldb.altx-soft.ru/)
-  - Organization Contact: TBD (reached out to multiple)
+  - Organization Contact: ?
   - Interviewer: David Ries
-  - Status: initial outreach sent
+  - Status: pending outreach
 - [Canonical: Repository](https://people.canonical.com/~ubuntu-security/oval/)
-  - Organization Contact: TBD (reached out to multiple)
+  - Organization Contact: ?
   - Interviewer: David Ries
-  - Status: initial outreach sent
+  - Status: pending outreach
 - [CIS: Repository](https://oval.cisecurity.org/repository)
   - Organization Contact: ?
   - Interviewer: Bill Munyan
   - Status: pending interviewer, org contact
 - [Cisco: Repository](https://tools.cisco.com/security/center/publicationListing.x)
-  - Organization Contact: TBD (reached out to multiple)
+  - Organization Contact: ?
   - Interviewer: David Ries
-  - Status: initial outreach sent
-- Hewlett-Packard
-  - Organization Contact: TBD (reached out to multiple)
+  - Status: pending outreach
+- [DISA Field Security Operations: Repository](http://iase.disa.mil/stigs/scap/index.html)
+  - Organization Contact: ?
+  - Interviewer: Danny Haynes
+  - Status: pending interviewer, org contact- Hewlett-Packard
+  - Organization Contact: ?
   - Interviewer: David Ries
-  - Status: initial outreach sent
-- [SecPod: Repository](https://www.scaprepo.com)
-  - Organization Contact: TBD (reached out to multiple)
-  - Interviewer: David Ries
-  - Status: initial outreach sent
+  - Status: pending outreach
 - [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
   - Organization Contact: Kent Landfield
   - Interviewer: Joe Sain
@@ -91,6 +74,23 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: Lisa Olson
   - Interviewer: Joe Sain 
   - Status: email sent; pending response
+- [NIST: Repository](http://scap.nist.gov/content/)
+  - Organization Contact: ?
+  - Interviewer: Stephen Banghart
+  - Status: pending interviewer, org contact  
+- [NIST: USGCB Mac Project](http://scap.nist.gov/content/)
+  - Organization Contact: ?
+  - Interviewer: Stephen Banghart
+  - Status: pending interviewer, org contact
+- [Positive Technologies: Repository](http://oval.ptsecurity.com)
+  - Organization Contact: ?
+  - Interviewer: ?
+  - Status: pending interviewer, org contact
+  - [SecPod: Repository](https://www.scaprepo.com)
+  - Organization Contact: ?
+  - Interviewer: David Ries
+  - Status: pending outreach
+
 
 ## Interviews: Completed
 
@@ -100,4 +100,6 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 
 Once we have gathered these organization-specific use cases, the working group will collaborate to assess the overlap
 and develop a general set of requirements for SCAP authoring to tools.
+
+
 
