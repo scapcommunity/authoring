@@ -32,14 +32,6 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: ?
   - Interviewer: ?
   - Status: pending interviewer, org contact
-- [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
-  - Organization Contact: Kent Landfield
-  - Interviewer: Joe Sain
-  - Status: email sent; pending response
-- [Microsoft](https://microsoft.com/)
-  - Organization Contact: Lisa Olson
-  - Interviewer: Joe Sain 
-  - Status: email sent; pending response
 - [New Net Technologies](https://www.newnettechnologies.com/)
   - Organization Contact: ?
   - Interviewer: ?
@@ -91,6 +83,14 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
   - Organization Contact: ?
   - Interviewer: David Ries
   - Status: pending outreach
+  - [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
+  - Organization Contact: Kent Landfield
+  - Interviewer: Joe Sain
+  - Status: Scheduling interview
+- [Microsoft](https://microsoft.com/)
+  - Organization Contact: Lisa Olson
+  - Interviewer: Joe Sain 
+  - Status: email sent; pending response
 
 ## Interviews: Completed
 
