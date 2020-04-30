@@ -4,35 +4,9 @@ This folder holds the SCAP Authoring use cases and requirements of specific orga
 contributed by the respective organizations and/or gathered by members of the working group.
 
 It is our intention to gather use cases and requirements from a wide variety of organizations that currently
-author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
+author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these organization-specific use cases, the working group will collaborate to assess the overlap and develop a general set of requirements for SCAP authoring to tools.
 
-## Interviews: To Be Assigned
 
-- [ADTsys](https://www.adtsys.com.br/)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-- [ATM Softrware](http://www.atmsoftware.pl)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-- [IT Security Database: Repository](http://www.itsecdb.com/oval)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-- [Lunarline](https://lunarline.com/)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-- [New Net Technologies](https://www.newnettechnologies.com/)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-- [Security Database: Repository](https://www.security-database.com/oval.php)
-  - Organization Contact: ?
-  - Interviewer: ?
-  - Status: pending interviewer, org contact
-  
 ## Interviews: In Process
 
 - [ALTEX-SOFT Repository](http://www.ovaldb.altx-soft.ru/)
@@ -99,8 +73,33 @@ author or tailor SCAP content (OVAL and/or XCCDF) including, for example:
 - [Red Hat](https://github.com/scapcommunity/authoring/blob/master/requirements/redhat.md)
 - [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
 
-Once we have gathered these organization-specific use cases, the working group will collaborate to assess the overlap
-and develop a general set of requirements for SCAP authoring to tools.
+## Interviews: To Be Assigned
+
+- [ADTsys](https://www.adtsys.com.br/)
+  - Organization Contact: ?
+  - Interviewer: ?
+  - Status: pending interviewer, org contact
+- [ATM Softrware](http://www.atmsoftware.pl)
+  - Organization Contact: ?
+  - Interviewer: ?
+  - Status: pending interviewer, org contact
+- [IT Security Database: Repository](http://www.itsecdb.com/oval)
+  - Organization Contact: ?
+  - Interviewer: ?
+  - Status: pending interviewer, org contact
+- [Lunarline](https://lunarline.com/)
+  - Organization Contact: ?
+  - Interviewer: ?
+  - Status: pending interviewer, org contact
+- [New Net Technologies](https://www.newnettechnologies.com/)
+  - Organization Contact: ?
+  - Interviewer: ?
+  - Status: pending interviewer, org contact
+- [Security Database: Repository](https://www.security-database.com/oval.php)
+  - Organization Contact: ?
+  - Interviewer: ?
+  - Status: pending interviewer, org contact
+  
 
 
 
