@@ -14,9 +14,9 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
   - Interviewer: David Ries
   - Status: scheduling call
 - [Canonical: Repository](https://people.canonical.com/~ubuntu-security/oval/)
-  - Organization Contact: TBD (contacted multiple)
+  - Organization Contact: Canonical Ubuntu Security Team
   - Interviewer: David Ries
-  - Status: scheduling call
+  - Status: quaestionnaire completed, interview scheduled
 - [CIS: Repository](https://oval.cisecurity.org/repository)
   - Organization Contact: ?
   - Interviewer: Bill Munyan
