@@ -68,7 +68,7 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 - [Siemens](https://github.com/scapcommunity/authoring/blob/master/requirements/siemens.md)
 - [Red Hat](https://github.com/scapcommunity/authoring/blob/master/requirements/redhat.md)
 - [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
-- [ALTEX-SOFT Repository](https://github.com/scapcommunity/authoring/blob/master/requirements/SCAP_Authoring_Use_Case_Questions_ALTXSOFT.docx)
+- [ALTEX-SOFT](https://github.com/scapcommunity/authoring/blob/master/requirements/SCAP_Authoring_Use_Case_Questions_ALTXSOFT.docx)
 
 ## Interviews: To Be Assigned
 
