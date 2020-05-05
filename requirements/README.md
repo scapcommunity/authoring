@@ -9,10 +9,6 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 
 ## Interviews: In Process
 
-- [ALTEX-SOFT Repository](http://www.ovaldb.altx-soft.ru/)
-  - Organization Contact: TBD (contacted multiple)
-  - Interviewer: David Ries
-  - Status: scheduling call
 - [Canonical: Repository](https://people.canonical.com/~ubuntu-security/oval/)
   - Organization Contact: Canonical Ubuntu Security Team
   - Interviewer: David Ries
@@ -72,6 +68,7 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 - [Siemens](https://github.com/scapcommunity/authoring/blob/master/requirements/siemens.md)
 - [Red Hat](https://github.com/scapcommunity/authoring/blob/master/requirements/redhat.md)
 - [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
+- [ALTEX-SOFT Repository](https://github.com/scapcommunity/authoring/blob/master/requirements/SCAP_Authoring_Use_Case_Questions_ALTXSOFT.docx)
 
 ## Interviews: To Be Assigned
 
