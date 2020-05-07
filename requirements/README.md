@@ -21,10 +21,6 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
   - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
   - Status: scheduling call
-- [DISA Field Security Operations: Repository](http://iase.disa.mil/stigs/scap/index.html)
-  - Organization Contact: ?
-  - Interviewer: Danny Haynes
-  - Status: pending interviewer, org contact
 - [G2](https://www.g2-inc.com/search/node?keys=scap)
   - Organization Contact: Dragos Prisaca to provide interviewee name
   - Interviewer: Stephen Banghart
@@ -69,7 +65,7 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 - [Red Hat](https://github.com/scapcommunity/authoring/blob/master/requirements/redhat.md)
 - [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
 - [ALTEX-SOFT](https://github.com/scapcommunity/authoring/blob/master/requirements/SCAP_Authoring_Use_Case_Questions_ALTXSOFT.docx)
-
+- [DISA Field Service Operations](https://github.com/scapcommunity/authoring/blob/master/requirements/Brian_Snodgrass_DISA_SCAP_Authoring_Use_Case_Responsee05062020.docx)
 ## Interviews: To Be Assigned
 
 - [ADTsys](https://www.adtsys.com.br/)
