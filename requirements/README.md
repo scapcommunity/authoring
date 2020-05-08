@@ -60,6 +60,7 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 - [ALTEX-SOFT](https://github.com/scapcommunity/authoring/blob/master/requirements/ALTEX-SOFT.docx)
 - [Canonical: Repository](https://github.com/scapcommunity/authoring/blob/master/requirements/Canonical.docx)
 - [DISA Field Service Operations](https://github.com/scapcommunity/authoring/blob/master/requirements/Brian_Snodgrass_DISA_SCAP_Authoring_Use_Case_Responsee05062020.docx)
+- [DISA - Joe Wolfkiel](https://github.com/scapcommunity/authoring/blob/6bb4221872642ffee513e41a7280d1a57cbbee6e/requirements/interview-disa-wolfkiel.docx)
 - [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
 - [Red Hat](https://github.com/scapcommunity/authoring/blob/master/requirements/redhat.md)
 - [Siemens](https://github.com/scapcommunity/authoring/blob/master/requirements/siemens.md)
