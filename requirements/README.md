@@ -9,10 +9,6 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 
 ## Interviews: In Process
 
-- [Canonical: Repository](https://people.canonical.com/~ubuntu-security/oval/)
-  - Organization Contact: Canonical Ubuntu Security Team
-  - Interviewer: David Ries
-  - Status: quaestionnaire completed, interview scheduled
 - [CIS: Repository](https://oval.cisecurity.org/repository)
   - Organization Contact: ?
   - Interviewer: Bill Munyan
@@ -61,11 +57,13 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 
 ## Interviews: Completed
 
-- [Siemens](https://github.com/scapcommunity/authoring/blob/master/requirements/siemens.md)
-- [Red Hat](https://github.com/scapcommunity/authoring/blob/master/requirements/redhat.md)
-- [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
-- [ALTEX-SOFT](https://github.com/scapcommunity/authoring/blob/master/requirements/SCAP_Authoring_Use_Case_Questions_ALTXSOFT.docx)
+- [ALTEX-SOFT](https://github.com/scapcommunity/authoring/blob/master/requirements/ALTEX-SOFT.docx)
+- [Canonical: Repository](https://github.com/scapcommunity/authoring/blob/master/requirements/Canonical.docx)
 - [DISA Field Service Operations](https://github.com/scapcommunity/authoring/blob/master/requirements/Brian_Snodgrass_DISA_SCAP_Authoring_Use_Case_Responsee05062020.docx)
+- [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
+- [Red Hat](https://github.com/scapcommunity/authoring/blob/master/requirements/redhat.md)
+- [Siemens](https://github.com/scapcommunity/authoring/blob/master/requirements/siemens.md)
+
 ## Interviews: To Be Assigned
 
 - [ADTsys](https://www.adtsys.com.br/)
