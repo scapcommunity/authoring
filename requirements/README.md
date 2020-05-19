@@ -9,10 +9,6 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 
 ## Interviews: In Process
 
-- [CIS: Repository](https://oval.cisecurity.org/repository)
-  - Organization Contact: ?
-  - Interviewer: Bill Munyan
-  - Status: pending interviewer, org contact
 - [Cisco: Repository](https://tools.cisco.com/security/center/publicationListing.x)
   - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
@@ -30,9 +26,9 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
   - Interviewer: Joe Sain
   - Status: Scheduling interview
 - [Microsoft](https://microsoft.com/)
-  - Organization Contact: Lisa Olson
+  - Organization Contact: ?
   - Interviewer: Joe Sain 
-  - Status: Scheduling interview
+  - Status: Pending POC selection
 - [NIST: Repository](http://scap.nist.gov/content/)
   - Organization Contact: ?
   - Interviewer: Stephen Banghart
@@ -59,6 +55,7 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 
 - [ALTEX-SOFT](https://github.com/scapcommunity/authoring/blob/master/requirements/ALTEX-SOFT.docx)
 - [Canonical: Repository](https://github.com/scapcommunity/authoring/blob/master/requirements/Canonical.docx)
+- [CIS: Repository](https://github.com/scapcommunity/authoring/blob/master/requirements/CIS.md)
 - [DISA Field Service Operations](https://github.com/scapcommunity/authoring/blob/master/requirements/Brian_Snodgrass_DISA_SCAP_Authoring_Use_Case_Responsee05062020.docx)
 - [DISA - Joe Wolfkiel](https://github.com/scapcommunity/authoring/blob/6bb4221872642ffee513e41a7280d1a57cbbee6e/requirements/interview-disa-wolfkiel.docx)
 - [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
