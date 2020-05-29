@@ -54,6 +54,7 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 ## Interviews: Completed
 
 - [ALTEX-SOFT](https://github.com/scapcommunity/authoring/blob/master/requirements/ALTEX-SOFT.docx)
+- [Borelli Security Software](https://github.com/scapcommunity/authoring/blob/master/requirements/Borelli_Software_SCAP_Authoring.docx?raw=true)
 - [Canonical: Repository](https://github.com/scapcommunity/authoring/blob/master/requirements/Canonical.docx)
 - [CIS: Repository](https://github.com/scapcommunity/authoring/blob/master/requirements/CIS.md)
 - [DISA Field Service Operations](https://github.com/scapcommunity/authoring/blob/master/requirements/Brian_Snodgrass_DISA_SCAP_Authoring_Use_Case_Responsee05062020.docx)
