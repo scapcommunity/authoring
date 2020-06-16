@@ -21,10 +21,6 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
   - Organization Contact: TBD (contacted multiple)
   - Interviewer: David Ries
   - Status: scheduling call
-- [McAfee](https://www.mcafee.com/enterprise/en-us/products/policy-auditor.html)
-  - Organization Contact: Kent Landfield
-  - Interviewer: Joe Sain
-  - Status: Scheduling interview
 - [Microsoft](https://microsoft.com/)
   - Organization Contact: ?
   - Interviewer: Joe Sain 
@@ -60,6 +56,7 @@ author or tailor SCAP content (OVAL and/or XCCDF). Once we have gathered these o
 - [DISA Field Service Operations](https://github.com/scapcommunity/authoring/blob/master/requirements/Brian_Snodgrass_DISA_SCAP_Authoring_Use_Case_Responsee05062020.docx)
 - [DISA - Joe Wolfkiel](https://github.com/scapcommunity/authoring/blob/6bb4221872642ffee513e41a7280d1a57cbbee6e/requirements/interview-disa-wolfkiel.docx)
 - [Joval Continuous Monitoring](https://github.com/scapcommunity/authoring/blob/master/requirements/joval-continuous-monitoring.md)
+- [McAfee](https://github.com/scapcommunity/authoring/blob/master/requirements/McAfee_Kent_Landfield.docx)
 - [Red Hat](https://github.com/scapcommunity/authoring/blob/master/requirements/redhat.md)
 - [Siemens](https://github.com/scapcommunity/authoring/blob/master/requirements/siemens.md)
 
